@@ -1,0 +1,57 @@
+body {
+ background-image: url("https://i.ibb.co/RHLMRfr/bgsatin-gif.jpg");
+
+}
+
+.about-me-section {
+  padding: 50px;
+  text-align: center;
+
+  color: black;
+}
+
+img{
+   width: 40%; 
+    
+}
+
+p{
+  font-size: 30px;
+}
+
+
+h1{
+  font-size:50px;
+}
+.stuff-section {
+  padding: 2px;
+  text-align: center;
+  text-shadow: 2px 2px  #9900FF;
+  color:#FF99CC;
+background-image: url("https://i.ibb.co/4T8vBzf/ether.jpg");
+}
+
+.favorites {
+  padding: 10px;
+  text-align: center;
+  text-shadow: 2px 2px  #9900FF;
+  color:#FF99CC;
+background-image: url("https://i.ibb.co/CPwvSNy/purplebl.jpg");
+}
+
+h2{
+  font-size:40px;
+}
+
+ul{
+  color:#FFFF66;
+    font-size: 30px;
+   list-style-image: url('https://i.ibb.co/b6zNVN4/movie.gif');
+}
+
+ol{
+
+  color:#FFFF66;
+  font-size: 30px;
+   list-style-image: url('https://i.ibb.co/Lz60gBZ/notespin.gif');
+}
